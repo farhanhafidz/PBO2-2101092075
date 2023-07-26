@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/controller/BukuController.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/dao/BukuDao.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/dao/BukuDaoImpl.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/view/FormPeminjaman.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/view/FormAnggota.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/dao/PengembalianDao.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/view/FormBuku.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/dao/Koneksi.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/view/FormPengembalian.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/dao/PeminjamanDao.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/dao/AnggotaDao.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/model/Buku.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/model/Pengembalian.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/model/Peminjaman.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/controller/PeminjamanController.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/dao/PeminjamanDaoImpl.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/model/Anggota.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/dao/AnggotaDaoImpl.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/dao/PengembalianDaoImpl.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/controller/AnggotaController.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/PBO2_2101092075/src/HAFIDZ/controller/PengembalianController.java</file>
+        </group>
+    </open-files>
+</project-private>
